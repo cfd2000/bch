@@ -6,7 +6,7 @@ apt update
 apt upgrade -y
 pkg install python -y
 pip install --upgrade pip
-pip install --r requirements.txt
+pip install -r requirements.txt
 
 echo -e "\e[1m\e[31mWARNING donot Subscribe :\e[32m Termux Tricks & Tut"
 echo
