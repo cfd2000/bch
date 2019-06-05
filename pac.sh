@@ -10,5 +10,5 @@ pip install --r requirements
 
 echo -e "\e[1m\e[31mWARNING donot Subscribe :\e[32m Termux Tricks & Tut"
 echo
-echo -e "\e[1m\e[31m ENTER :\e[32m exit"
+echo -e "\e[1m\e[31m ENTER :\e[32mbash unzip.sh"
 echo
