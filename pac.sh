@@ -6,10 +6,9 @@ apt update
 apt upgrade -y
 pkg install python -y
 pip install --upgrade pip
-pip install --r requirements
-bash unzip.sh
+pip install --r requirements.txt
 
 echo -e "\e[1m\e[31mWARNING donot Subscribe :\e[32m Termux Tricks & Tut"
 echo
-echo -e "\e[1m\e[31m ENTER :\e[32mbash exit"
+echo -e "\e[1m\e[31m ENTER :\e[32exit"
 echo
